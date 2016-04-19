@@ -13,3 +13,4 @@ hs_err_pid*
 node_modules
 
 /src/main/resources/public/**/*.js
+/target/
